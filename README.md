@@ -31,6 +31,6 @@ CustomerOnboardingApi/
 # Notes
 
 - Frontend: .env file should contain your API URL, e.g.:
-  REACT_APP_API_URL=https://localhost:5206/api
+  REACT_APP_API_URL=http://localhost:5206/api
 - Tests: Run from root with:
   dotnet test src/CustomerOnboardingApi.Sln
